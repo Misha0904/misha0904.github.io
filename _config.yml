@@ -20,11 +20,11 @@ cusdis:
     app_id: #your cusdis app_id
 
 user:
-  name: Catbook
+  name: Johnny
   pic: /assets/img/header.jpeg
   picAlt: "Johnny"
   job: 个人博客
-  aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: false # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
