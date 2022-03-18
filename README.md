@@ -1,35 +1,11 @@
-# Catbook
-CATbook is a CATegory-centric Jekyll theme for bloggers. There is a switch button to toggle between dark mode and light mode. This theme is originally inspired from [Book](https://github.com/kkninjae/book).
+# Johnny Blog
+欢迎来到我的 Github 个人博客 
 
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) ![GENERATOR](https://img.shields.io/badge/made_with-jekyll-blue.svg) ![VERSION](https://img.shields.io/badge/current_version-1.0-green.svg)
+使用 Jekyll  Catbook 主题 搭建的建议博客
 
-**Demo:** https://starry99.github.io/catbook/
 
-![SCREENSHOT](https://starry99.github.io/catbook/assets/img/lmode.jpg)
-![SCREENSHOT](https://starry99.github.io/catbook/assets/img/dmode.jpg)
 
-## Setup
+访问地址  https://askajohnny.github.io/
 
-```sh
-$ git clone https://github.com/starry99/catbook
-$ jekyll serve
+![image-20220318144401093](https://cdn.askajohnny.com/image-20220318144401093.png)
 
-# Now you can start customization!
-```
-
-## Make it yours
-
-If you want to create a new category, you need to create `*name*.html` in the `categories` folder. And add the following content:
-```html
----
-layout: page
-type: *name*
----
-
-{% include archive.html %}
-```
-Then the number of pages in the category will be displayed.
-
-## License
-
-[MIT License](https://opensource.org/licenses/MIT)

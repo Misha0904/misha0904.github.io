@@ -4,10 +4,6 @@ categories: [杂记]
 comments: true
 ---
 
-# Jekyll + Github 搭建个人博客
-
-
-
 >   今天教大家使用 Jekyll+Github 来搭建一个简易的 个人博客，不需要服务器，不需要域名，只需要5分钟！
 
 
